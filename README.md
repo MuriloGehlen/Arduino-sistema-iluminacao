@@ -29,5 +29,6 @@ LED RGB de cores verde, amarelo e vermelho
 
 
 <img width="1186" height="703" alt="image" src="https://github.com/user-attachments/assets/743f5219-c92b-4304-8f81-41c4434a7af2" />
-<img width="396" height="789" alt="image" src="https://github.com/user-attachments/assets/15aa536c-0b40-4626-82af-064c3deb634a" />
-<img width="190" height="168" alt="image" src="https://github.com/user-attachments/assets/d5e58b32-5028-497e-8847-faef5b646c03" />
+<img width="454" height="767" alt="image" src="https://github.com/user-attachments/assets/417ab76e-d345-4638-9f16-a404042c7d47" />
+<img width="454" height="176" alt="image" src="https://github.com/user-attachments/assets/03956aea-83a6-4ffd-9828-8af681ae8c4f" />
+
