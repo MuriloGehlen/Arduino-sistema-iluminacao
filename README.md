@@ -32,3 +32,8 @@ LED RGB de cores verde, amarelo e vermelho
 <img width="454" height="767" alt="image" src="https://github.com/user-attachments/assets/417ab76e-d345-4638-9f16-a404042c7d47" />
 <img width="454" height="176" alt="image" src="https://github.com/user-attachments/assets/03956aea-83a6-4ffd-9828-8af681ae8c4f" />
 
+Foto do circuito montado SEM visor:
+<img width="1648" height="740" alt="image" src="https://github.com/user-attachments/assets/99560262-2ff2-4439-b53c-a3ccedf78eb8" />
+
+Foto do circuito montado COM visor de 7 segmentos:
+<img width="1648" height="740" alt="image" src="https://github.com/user-attachments/assets/b1af6b18-a6ee-487d-ac35-0a422554433f" />
