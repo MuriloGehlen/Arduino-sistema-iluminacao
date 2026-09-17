@@ -35,10 +35,6 @@ Os botões são utilizados para alternar entre os estados do sistema.
 
 ## Circuito
 
-### Diagrama do circuito
-
-[seu diagrama atual]
-
 ## Montagem
 
 ### Sem display de 7 segmentos
